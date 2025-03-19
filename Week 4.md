@@ -12,10 +12,10 @@ tags:
 ### Tense(mainly three)
 - Present simple
 - Present perfect
-- Past
-**Move1:**  Present simple and Perfect
-**Move2:** Present simple, Perfect, and Past(meaning not so supportive)
-**Move3:** Present simple and Past
+- Past 
+**Move1:**  Present simple and Perfect 
+**Move2:** Present simple, Perfect, and Past(meaning not so supportive) 
+**Move3:** Present simple and Past 
 
  *Note:* Different Moves use different tense
 
